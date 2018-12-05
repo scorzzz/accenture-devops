@@ -21,3 +21,9 @@ echo "Insert into file" > jenkins
 echo "[INFO] *******************"
 
 cat jenkins
+
+
+echo "[INFO] *******************"
+echo "Testing Git polling"
+
+echo "[INFO] *******************"
