@@ -27,3 +27,9 @@ echo "[INFO] *******************"
 echo "Testing Git polling"
 
 echo "[INFO] *******************"
+
+
+echo "[INFO] *******************"
+echo "Testing Trigger"
+
+echo "[INFO] *******************"
